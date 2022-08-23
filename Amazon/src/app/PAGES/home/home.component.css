@@ -1,0 +1,12 @@
+.card-img-1{
+    align-items: center;
+}
+.card-image-column{
+    align-items: center;
+    padding: 5px;
+    padding-left: 45px;
+}
+.card a{
+    text-decoration: none;
+    padding-top: 10px;
+}
